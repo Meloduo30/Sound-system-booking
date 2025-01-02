@@ -1,0 +1,1 @@
+<?php /**PATH C:\sound_system_booking\resources\views/layouts/app.blade.php ENDPATH**/ ?>
